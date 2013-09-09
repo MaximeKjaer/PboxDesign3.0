@@ -28,11 +28,15 @@ cd /opt/piratebox/www/
 cp index.html Shared/src/old_index.html
 cp Shared/src/index.html index.html
 cp Shared/src/main.css main.css
-cp Shared/src/mindex.html mindex.html
-cp Shared/src/mobile.css mobile.css
-cp Shared/src/piratebox-logo_large.png piratebox-logo_large.png
+cp Shared/src/pbox_small.png pbox_small.png
 cp Shared/src/jquery.min.js jquery.min.js
-cp Shared/src/chat.html chat.html
+cp Shared/src/favicon.ico favicon.ico
+cp Shared/src/Flat-UI-Icons.woff Flat-UI-Icons.woff
+cp Shared/src/lato.woff lato.woff
+cp Shared/src/lato_700.woff lato_700.woff
+cp Shared/src/lato_900.woff lato_900.woff
+cp Shared/src/sk8board.jpg sk8board.jpg
+
 ```
 
 If you have a www_alt folder, you can just place them there instead.
@@ -49,9 +53,15 @@ By default the share folder is "/Shared", if you have anything else than this pl
 cd /opt/piratebox/www/
 cp Shared/src/old_index.html index.html
 rm main.css
-rm mindex.html
-rm mobile.css
-rm piratebox-logo_large.png
+rm pbox_small.png
+rm jquery.min.js
+rm favicon.ico
+rm Flat-UI-Icons.woff
+rm lato.woff
+rm lato_700.woff
+rm lato_900.woff
+rm sk8board.jpg
+
 ```
 
 You can plug your USB stick into your computer and delete all the other files you don't need.
