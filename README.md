@@ -5,8 +5,7 @@ Website deigns for the 0.5 (lighttpd) version of PirateBox, based on Nargren's a
 
 Still missing better mobile support, which is on its way!
 
-Design 3.0 supports station_cnt
-station_cnt is an optional modification for your PirateBox which enables you to see how many clients are connected.
+Design 3.0 supports station_cnt, which is an optional modification for your PirateBox which enables you to see how many clients are connected.
 To add it, please see:
 
 http://piratebox.aod-rpg.de/dokuwiki/doku.php?id=modification_list#show_connected_clients
